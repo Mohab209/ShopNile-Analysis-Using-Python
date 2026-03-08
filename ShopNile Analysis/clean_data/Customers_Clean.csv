@@ -1,0 +1,501 @@
+customer_id,name,age,city,signup_date,income
+1000,Omar Hassan,54,Cairo,2024-10-18,8746.79
+1001,Mohamed Adel,67,Cairo,2023-04-30,9564.37
+1002,Ahmed Ibrahim,45,Cairo,2024-08-26,9038.03
+1003,Ahmed Hassan,30,Giza,2023-02-27,7680.05
+1004,Omar Youssef,58,Cairo,2023-12-12,12242.61
+1005,Mohamed Youssef,23,Cairo,2024-04-18,7845.25
+1006,Mona Hassan,45,Unknown,2023-04-27,13352.28
+1007,Mohamed Hassan,54,Alexandria,2023-05-07,11748.81
+1008,Ahmed Ibrahim,34,Alexandria,2024-01-28,10805.26
+1009,Ali Youssef,38,Nasr city,2024-10-02,7462.18
+1010,Mohamed Youssef,26,Giza,2023-02-27,9116.14
+1011,Ahmed Youssef,45,Alexandria,2024-09-25,15776.96
+1012,Mona Ibrahim,39,Alexandria,2024-05-27,14504.59
+1013,Mona Youssef,45,Cairo,2023-04-06,7112.22
+1014,Sara Hassan,51,Cairo,2024-09-29,12496.66
+1015,Nour Ibrahim,55,Alexandria,2023-04-28,15756.94
+1016,Omar Mahmoud,39,Nasr city,2024-07-13,3652.97
+1017,Sara Adel,18,Alexandria,2024-08-23,14716.8
+1018,Ahmed Ibrahim,37,Nasr city,2024-05-02,12236.99
+1019,Nour Adel,68,6th october,2023-08-25,12236.99
+1020,Mohamed Hassan,17,Alexandria,2023-09-29,8183.7
+1021,Mona Hassan,45,Cairo,2023-07-08,2975.59
+1022,Sara Adel,59,Nasr city,2024-12-04,3862.29
+1023,Ali Adel,45,Cairo,2024-03-22,12240.42
+1024,Nour Hassan,53,Alexandria,2024-08-03,13298.61
+1025,Omar Mahmoud,17,6th october,2023-09-04,7478.42
+1026,Ali Hassan,36,6th october,2023-03-17,15192.96
+1027,Mona Hassan,48,Nasr city,2023-06-03,3692.4
+1028,Ali Adel,27,Giza,2024-10-17,11669.6
+1029,Nour Youssef,37,Nasr city,2024-03-10,12236.99
+1030,Nour Adel,59,6th october,2023-03-27,8740.82
+1031,Ali Ibrahim,40,Cairo,2024-11-27,12236.99
+1032,Omar Hassan,64,Alexandria,2023-10-12,7697.93
+1033,Mohamed Ibrahim,42,Cairo,2023-08-08,10077.22
+1034,Nour Adel,57,Giza,2023-03-10,17031.46
+1035,Mohamed Ibrahim,43,Cairo,2023-02-16,9115.54
+1036,Nour Hassan,31,Nasr city,2023-04-04,16178.46
+1037,Mona Adel,30,Cairo,2024-03-28,6351.47
+1038,Mona Adel,62,Alexandria,2023-07-23,14649.02
+1039,Ahmed Adel,66,6th october,2023-08-06,19207.84
+1040,Sara Ibrahim,59,Cairo,2024-04-18,12236.99
+1041,Omar Adel,67,Cairo,2024-03-07,8015.52
+1042,Omar Hassan,18,Cairo,2023-12-07,14885.36
+1043,Ali Ibrahim,52,Cairo,2024-07-04,10984.77
+1044,Ali Ibrahim,66,6th october,2024-09-03,13855.73
+1045,Ahmed Mahmoud,22,Alexandria,2023-10-16,12236.99
+1046,Mona Adel,36,Unknown,2023-09-11,12432.95
+1047,Omar Youssef,24,Nasr city,2023-12-23,11221.61
+1048,Ahmed Adel,54,6th october,2023-01-23,17838.91
+1049,Nour Hassan,33,Giza,2024-06-05,13272.1
+1050,Ahmed Hassan,19,Alexandria,2023-04-10,13688.01
+1051,Nour Adel,40,Alexandria,2023-06-29,9940.62
+1052,Mona Adel,29,Cairo,2023-08-11,9561.97
+1053,Mohamed Ibrahim,65,Alexandria,2024-10-20,9837.21
+1054,Ali Adel,24,Nasr city,2024-03-17,13972.26
+1055,Ahmed Mahmoud,41,Alexandria,2024-08-30,9895.08
+1056,Mona Mahmoud,68,Nasr city,2023-11-21,13448.87
+1057,Ahmed Adel,17,Alexandria,2024-05-30,22377.0
+1058,Ahmed Ibrahim,35,Alexandria,2023-01-16,16355.62
+1059,Omar Youssef,43,Giza,2023-12-02,10369.88
+1060,Ali Adel,62,Giza,2023-09-15,18006.07
+1061,Omar Youssef,22,Alexandria,2024-05-11,9959.62
+1062,Mona Youssef,59,Alexandria,2023-06-09,1809.38
+1063,Mona Adel,23,Cairo,2024-04-19,6959.57
+1064,Ahmed Ibrahim,62,Giza,2024-10-25,2646.04
+1065,Ali Mahmoud,50,Cairo,2024-11-20,10242.43
+1066,Mohamed Hassan,29,Unknown,2024-11-05,12092.09
+1067,Nour Hassan,32,Nasr city,2024-01-15,12236.99
+1068,Ahmed Ibrahim,51,Alexandria,2024-06-28,13634.64
+1069,Nour Mahmoud,65,Giza,2024-11-21,10904.5
+1070,Ali Hassan,55,Alexandria,2024-03-02,16147.03
+1071,Mona Mahmoud,19,Cairo,2024-09-04,12236.99
+1072,Ali Mahmoud,17,Cairo,2023-09-25,13178.07
+1073,Ali Adel,21,Cairo,2024-07-30,15854.33
+1074,Ali Hassan,69,Nasr city,2024-02-21,4607.07
+1075,Omar Hassan,57,6th october,2023-06-17,17718.77
+1076,Omar Youssef,19,6th october,2023-02-12,13692.48
+1077,Nour Adel,69,Giza,2024-07-09,9923.56
+1078,Nour Adel,44,Giza,2023-10-12,15163.91
+1079,Mohamed Adel,33,Cairo,2024-02-01,23353.46
+1080,Mona Ibrahim,41,6th october,2023-01-12,12909.33
+1081,Mona Hassan,59,Unknown,2024-08-29,13241.1
+1082,Omar Adel,49,6th october,2023-10-29,12236.99
+1083,Ali Ibrahim,45,Unknown,2023-09-10,7750.78
+1084,Ali Hassan,51,Giza,2024-05-13,16151.68
+1085,Nour Adel,29,Cairo,2023-02-04,7719.58
+1086,Nour Youssef,46,6th october,2024-12-27,12357.83
+1087,Ali Ibrahim,63,6th october,2023-03-31,9611.71
+1088,Ahmed Adel,30,Cairo,2024-08-27,14394.9
+1089,Nour Ibrahim,23,Alexandria,2024-08-24,13668.31
+1090,Ali Youssef,29,Giza,2024-02-22,17187.7
+1091,Mohamed Youssef,38,Nasr city,2023-04-25,12236.99
+1092,Sara Mahmoud,55,Alexandria,2024-09-08,10650.63
+1093,Mohamed Hassan,36,Alexandria,2023-07-15,12236.99
+1094,Sara Adel,31,Cairo,2024-05-15,9778.53
+1095,Ahmed Hassan,60,Giza,2024-09-17,13886.5
+1096,Ahmed Youssef,33,Alexandria,2024-05-07,12236.99
+1097,Mohamed Hassan,62,Nasr city,2023-03-16,12236.99
+1098,Omar Mahmoud,68,6th october,2024-02-17,16348.03
+1099,Nour Hassan,39,Alexandria,2024-01-11,18778.19
+1100,Nour Youssef,41,Cairo,2024-02-24,14067.17
+1101,Nour Ibrahim,40,Unknown,2024-12-29,21383.98
+1102,Ahmed Mahmoud,60,Alexandria,2023-10-04,12236.99
+1103,Ali Ibrahim,56,Alexandria,2024-11-06,12236.99
+1104,Sara Youssef,44,Alexandria,2024-01-29,3106.4
+1105,Nour Youssef,30,Alexandria,2024-04-01,19480.22
+1106,Mona Ibrahim,60,Nasr city,2023-07-11,12236.99
+1107,Ali Ibrahim,16,Cairo,2024-11-19,11722.08
+1108,Omar Adel,40,6th october,2023-04-09,13399.84
+1109,Mona Adel,22,Cairo,2024-07-01,6372.55
+1110,Mona Youssef,45,Alexandria,2023-04-06,24228.76
+1111,Mona Hassan,39,Alexandria,2024-10-25,12646.11
+1112,Ahmed Ibrahim,16,Nasr city,2024-10-24,12546.97
+1113,Mohamed Adel,59,Alexandria,2023-07-09,15628.83
+1114,Mohamed Youssef,23,Alexandria,2023-02-06,12236.99
+1115,Ali Ibrahim,39,Nasr city,2024-01-04,12236.99
+1116,Ali Ibrahim,26,Alexandria,2024-11-25,8047.63
+1117,Mohamed Hassan,66,6th october,2024-06-08,14357.34
+1118,Omar Hassan,32,6th october,2023-10-06,21410.12
+1119,Ahmed Hassan,23,Giza,2023-08-05,18727.1
+1120,Mohamed Adel,50,Cairo,2023-09-30,19965.93
+1121,Mohamed Youssef,50,Alexandria,2023-03-03,12236.99
+1122,Ahmed Adel,48,Cairo,2024-08-18,7051.98
+1123,Omar Mahmoud,20,Alexandria,2024-12-29,11371.07
+1124,Ahmed Youssef,57,Alexandria,2023-12-08,12278.62
+1125,Ahmed Youssef,54,Alexandria,2024-02-01,17470.96
+1126,Ali Mahmoud,45,Cairo,2024-11-29,3537.68
+1127,Ahmed Mahmoud,43,6th october,2023-01-19,19647.75
+1128,Nour Mahmoud,22,Alexandria,2023-06-26,11209.96
+1129,Ahmed Hassan,24,6th october,2024-09-03,9865.59
+1130,Mohamed Mahmoud,23,Giza,2024-01-31,6939.48
+1131,Sara Mahmoud,27,6th october,2024-03-20,3725.72
+1132,Mona Mahmoud,49,Cairo,2023-08-21,16115.85
+1133,Nour Hassan,48,Nasr city,2023-03-17,12366.59
+1134,Omar Hassan,63,6th october,2023-09-22,12236.99
+1135,Mohamed Mahmoud,38,Giza,2024-03-30,5524.61
+1136,Omar Adel,39,Alexandria,2024-12-18,10321.08
+1137,Nour Hassan,52,Alexandria,2024-01-19,20345.11
+1138,Ahmed Ibrahim,50,Cairo,2024-07-17,10702.04
+1139,Ahmed Youssef,59,Cairo,2024-05-20,4484.29
+1140,Mona Ibrahim,55,Giza,2024-01-02,10771.28
+1141,Mona Ibrahim,37,Alexandria,2023-05-24,10636.38
+1142,Sara Mahmoud,42,Giza,2023-03-10,12236.99
+1143,Ahmed Hassan,50,6th october,2023-04-09,11728.53
+1144,Mona Youssef,16,Alexandria,2024-01-31,10845.33
+1145,Mohamed Hassan,50,Nasr city,2023-01-25,12236.99
+1146,Omar Youssef,52,Alexandria,2024-04-13,21244.78
+1147,Nour Hassan,62,6th october,2024-04-28,17632.83
+1148,Mohamed Ibrahim,29,Cairo,2024-07-18,10655.56
+1149,Ahmed Mahmoud,18,Unknown,2023-05-31,6467.37
+1150,Mona Mahmoud,16,Unknown,2023-05-24,12236.99
+1151,Ahmed Mahmoud,20,Giza,2024-07-22,12296.09
+1152,Mohamed Ibrahim,41,Cairo,2023-02-08,12069.65
+1153,Mona Hassan,29,Alexandria,2023-04-19,11879.37
+1154,Mona Adel,54,Alexandria,2024-11-23,12990.42
+1155,Nour Mahmoud,42,Nasr city,2023-02-11,11278.2
+1156,Sara Mahmoud,24,Alexandria,2023-07-05,9131.69
+1157,Omar Youssef,30,Cairo,2024-02-02,9265.71
+1158,Omar Mahmoud,30,Cairo,2023-08-11,11836.23
+1159,Ahmed Ibrahim,41,Nasr city,2024-09-25,9282.88
+1160,Sara Ibrahim,57,Giza,2023-05-13,8435.77
+1161,Mohamed Youssef,28,6th october,2023-06-12,12236.99
+1162,Omar Youssef,66,Cairo,2023-08-03,10725.11
+1163,Mohamed Adel,47,Nasr city,2023-08-23,12236.99
+1164,Mohamed Hassan,54,Cairo,2024-10-19,12236.99
+1165,Ali Mahmoud,64,Alexandria,2024-08-10,17457.53
+1166,Ali Youssef,67,Giza,2023-01-09,18230.43
+1167,Ahmed Hassan,47,Cairo,2023-03-15,1633.05
+1168,Ali Hassan,19,Giza,2024-05-06,10286.56
+1169,Nour Ibrahim,45,Alexandria,2023-09-10,10142.8
+1170,Mohamed Youssef,52,Cairo,2023-08-18,4962.44
+1171,Mohamed Ibrahim,38,Cairo,2024-06-02,8110.92
+1172,Mona Hassan,54,6th october,2023-06-23,6447.12
+1173,Ali Ibrahim,60,Cairo,2024-10-14,12236.99
+1174,Ali Youssef,30,Alexandria,2023-06-17,16678.39
+1175,Mohamed Youssef,58,Cairo,2023-06-19,18357.78
+1176,Mohamed Mahmoud,44,Nasr city,2024-01-28,15608.36
+1177,Omar Youssef,45,6th october,2024-09-25,6354.74
+1178,Ali Youssef,28,Cairo,2023-07-13,9377.4
+1179,Sara Adel,47,Alexandria,2024-05-31,14446.87
+1180,Ahmed Adel,22,Nasr city,2023-01-29,5889.36
+1181,Ahmed Adel,66,Alexandria,2023-06-14,15564.99
+1182,Mona Ibrahim,37,Giza,2024-02-26,12236.99
+1183,Omar Adel,43,Nasr city,2023-12-05,10125.9
+1184,Mona Adel,17,Alexandria,2024-10-09,15554.8
+1185,Nour Hassan,57,Alexandria,2024-05-10,14221.32
+1186,Mohamed Mahmoud,60,6th october,2023-12-31,10195.17
+1187,Ali Youssef,45,Alexandria,2023-12-08,17796.65
+1188,Mohamed Hassan,21,Alexandria,2024-05-14,6594.68
+1189,Ali Ibrahim,43,Cairo,2024-10-18,15079.68
+1190,Ali Adel,43,Unknown,2024-05-25,14965.51
+1191,Ahmed Adel,59,Giza,2023-11-23,10452.27
+1192,Mohamed Ibrahim,59,Cairo,2023-08-05,13630.67
+1193,Sara Adel,35,Alexandria,2023-10-28,12236.99
+1194,Ahmed Mahmoud,45,Cairo,2023-05-12,16620.14
+1195,Nour Youssef,26,Giza,2023-03-11,12236.99
+1196,Omar Adel,43,Giza,2023-09-09,9386.38
+1197,Ali Youssef,40,Nasr city,2024-02-19,17245.05
+1198,Mohamed Youssef,54,Unknown,2024-03-20,8478.28
+1199,Sara Hassan,48,6th october,2023-07-01,4957.69
+1200,Ahmed Adel,16,Cairo,2023-06-16,12236.99
+1201,Mohamed Hassan,42,Alexandria,2023-04-01,15030.05
+1202,Omar Youssef,67,6th october,2024-12-14,5597.85
+1203,Ahmed Adel,45,6th october,2024-06-14,12236.99
+1204,Sara Youssef,56,6th october,2023-02-08,1590.35
+1205,Ahmed Adel,18,Alexandria,2023-05-06,20482.28
+1206,Ahmed Adel,54,Alexandria,2024-03-26,13055.09
+1207,Ali Mahmoud,45,6th october,2023-06-22,11516.43
+1208,Sara Hassan,23,Giza,2024-10-14,9275.4
+1209,Mohamed Mahmoud,42,Alexandria,2023-08-08,13995.68
+1210,Nour Adel,24,6th october,2024-09-29,11811.83
+1211,Mohamed Hassan,52,Cairo,2023-02-27,17516.51
+1212,Sara Ibrahim,48,Alexandria,2024-10-21,12571.14
+1213,Omar Adel,66,Nasr city,2024-04-20,12751.51
+1214,Ahmed Mahmoud,57,Alexandria,2024-03-31,10181.94
+1215,Ali Mahmoud,59,6th october,2023-12-27,12236.99
+1216,Ali Hassan,39,Giza,2023-01-01,13539.01
+1217,Mohamed Hassan,30,Giza,2024-01-22,3449.16
+1218,Omar Ibrahim,69,Nasr city,2023-12-14,5259.07
+1219,Ali Hassan,47,Alexandria,2023-07-09,15716.32
+1220,Nour Adel,47,6th october,2024-05-19,12854.33
+1221,Ali Youssef,39,Cairo,2023-07-10,12236.99
+1222,Ahmed Mahmoud,56,Alexandria,2024-05-22,12092.17
+1223,Ahmed Hassan,67,Giza,2024-01-04,13737.91
+1224,Sara Adel,64,Alexandria,2024-02-13,9301.2
+1225,Nour Hassan,64,Alexandria,2023-04-27,8108.48
+1226,Sara Ibrahim,67,Alexandria,2023-05-14,12979.23
+1227,Omar Ibrahim,27,Giza,2023-02-27,7108.14
+1228,Omar Hassan,54,6th october,2024-07-09,12236.99
+1229,Sara Youssef,17,Giza,2024-11-15,3487.08
+1230,Nour Mahmoud,18,Alexandria,2024-11-02,17145.78
+1231,Ali Ibrahim,64,Alexandria,2023-06-22,14362.99
+1232,Ahmed Ibrahim,52,Alexandria,2023-05-29,13280.15
+1233,Nour Ibrahim,64,6th october,2023-03-21,16913.45
+1234,Mona Hassan,32,Cairo,2023-08-01,20327.37
+1235,Ahmed Adel,64,Nasr city,2023-07-22,17071.85
+1236,Nour Mahmoud,17,Cairo,2023-08-17,2795.63
+1237,Nour Ibrahim,17,Giza,2024-11-06,5602.12
+1238,Sara Ibrahim,43,Alexandria,2023-08-15,8875.91
+1239,Nour Hassan,69,Cairo,2024-10-20,12130.46
+1240,Mona Hassan,38,6th october,2024-06-15,14588.3
+1241,Nour Mahmoud,52,6th october,2024-03-16,8371.28
+1242,Ahmed Ibrahim,47,Alexandria,2024-02-06,12933.83
+1243,Nour Mahmoud,48,Cairo,2023-02-16,8223.09
+1244,Sara Adel,16,Alexandria,2023-08-21,8942.41
+1245,Nour Ibrahim,34,Nasr city,2023-11-01,4966.69
+1246,Ahmed Hassan,17,Alexandria,2024-06-09,7383.83
+1247,Omar Ibrahim,68,Nasr city,2023-05-23,12236.99
+1248,Mona Adel,59,6th october,2024-02-19,7120.63
+1249,Sara Hassan,41,Alexandria,2024-05-27,17268.21
+1250,Nour Adel,45,Alexandria,2024-01-08,7253.01
+1251,Sara Youssef,21,Nasr city,2024-07-19,12236.99
+1252,Mona Youssef,47,6th october,2023-09-16,14466.59
+1253,Sara Hassan,19,6th october,2024-10-17,12924.18
+1254,Mohamed Adel,26,Nasr city,2024-04-15,7708.21
+1255,Ahmed Youssef,32,Cairo,2023-01-12,12236.99
+1256,Sara Hassan,53,Alexandria,2023-11-26,12236.99
+1257,Mohamed Youssef,39,Cairo,2023-12-24,12610.05
+1258,Mona Adel,20,Cairo,2024-02-12,12236.99
+1259,Omar Adel,67,Giza,2024-10-29,11519.7
+1260,Mona Youssef,49,Unknown,2024-01-08,17746.37
+1261,Ali Hassan,21,Alexandria,2023-01-08,8484.12
+1262,Mona Youssef,37,6th october,2023-05-02,11825.06
+1263,Ahmed Adel,45,Cairo,2023-12-14,20854.0
+1264,Mohamed Mahmoud,63,6th october,2024-11-06,8865.16
+1265,Mohamed Youssef,31,6th october,2023-03-31,12236.99
+1266,Nour Youssef,48,Alexandria,2024-10-09,15538.76
+1267,Omar Ibrahim,24,Cairo,2024-11-28,9187.67
+1268,Sara Mahmoud,21,Giza,2023-11-12,15162.04
+1269,Mohamed Adel,31,Alexandria,2023-06-27,16862.77
+1270,Ali Adel,44,Cairo,2024-06-23,15109.05
+1271,Omar Hassan,18,Nasr city,2023-02-10,4148.88
+1272,Omar Adel,35,Cairo,2024-12-04,12236.99
+1273,Ali Adel,51,Alexandria,2024-05-16,12236.99
+1274,Omar Mahmoud,34,6th october,2023-05-25,11627.83
+1275,Sara Mahmoud,41,Nasr city,2023-07-20,15103.36
+1276,Omar Adel,18,Cairo,2024-12-24,12888.51
+1277,Ali Ibrahim,34,Cairo,2024-04-05,12236.99
+1278,Ahmed Mahmoud,35,Alexandria,2024-07-11,12236.99
+1279,Omar Mahmoud,47,6th october,2024-06-30,15052.93
+1280,Omar Ibrahim,22,Alexandria,2023-09-10,14798.95
+1281,Ali Youssef,67,Alexandria,2024-01-25,17403.9
+1282,Sara Mahmoud,56,Giza,2024-08-16,16169.61
+1283,Ali Hassan,48,Nasr city,2023-09-13,14295.9
+1284,Sara Adel,55,Alexandria,2024-12-09,12236.99
+1285,Ahmed Mahmoud,54,Nasr city,2024-03-25,3695.2
+1286,Nour Youssef,33,Cairo,2023-01-10,12236.99
+1287,Ali Adel,55,6th october,2023-08-30,13038.44
+1288,Mona Mahmoud,16,Alexandria,2023-09-08,13357.89
+1289,Mona Ibrahim,26,6th october,2023-01-05,5616.26
+1290,Ali Mahmoud,43,Nasr city,2023-04-29,6594.72
+1291,Nour Ibrahim,40,6th october,2024-01-09,17265.76
+1292,Omar Hassan,65,Giza,2023-03-06,11802.22
+1293,Sara Youssef,38,Alexandria,2023-05-26,15407.5
+1294,Omar Youssef,46,Alexandria,2023-08-12,12141.59
+1295,Sara Hassan,45,Nasr city,2023-08-27,12148.78
+1296,Nour Ibrahim,45,Nasr city,2023-06-26,16691.42
+1297,Omar Adel,50,6th october,2023-10-09,9419.78
+1298,Ahmed Ibrahim,22,Alexandria,2023-03-04,12480.6
+1299,Ahmed Hassan,31,6th october,2023-08-05,9688.62
+1300,Mohamed Ibrahim,41,Giza,2024-11-19,9827.52
+1301,Mona Youssef,63,Cairo,2024-04-05,12236.99
+1302,Nour Hassan,67,Giza,2024-09-01,13110.67
+1303,Mona Mahmoud,64,Cairo,2023-04-15,9606.26
+1304,Omar Youssef,17,Cairo,2023-04-09,18278.78
+1305,Ahmed Mahmoud,16,Nasr city,2024-05-25,7526.96
+1306,Mona Mahmoud,63,Nasr city,2024-01-20,11065.64
+1307,Ahmed Ibrahim,27,Alexandria,2024-02-09,9801.34
+1308,Omar Hassan,20,Cairo,2024-06-01,12236.99
+1309,Nour Hassan,52,Nasr city,2024-04-20,12982.77
+1310,Nour Mahmoud,47,Cairo,2024-12-09,17159.22
+1311,Ahmed Ibrahim,24,Unknown,2024-10-06,4572.2
+1312,Nour Youssef,56,Cairo,2024-03-12,13335.25
+1313,Mona Hassan,45,6th october,2023-01-23,16448.15
+1314,Ali Ibrahim,34,Nasr city,2024-07-18,12411.42
+1315,Nour Hassan,63,Nasr city,2024-11-07,17327.4
+1316,Mona Ibrahim,31,6th october,2024-12-14,9413.56
+1317,Nour Mahmoud,45,Cairo,2024-04-02,19046.74
+1318,Omar Youssef,35,Alexandria,2023-03-24,23494.49
+1319,Ali Youssef,39,Cairo,2023-05-25,10185.81
+1320,Sara Mahmoud,69,Nasr city,2023-03-26,9772.49
+1321,Ali Youssef,48,Alexandria,2023-03-19,19266.92
+1322,Mona Youssef,39,Cairo,2024-04-01,19897.86
+1323,Mona Ibrahim,67,Cairo,2023-01-01,9385.7
+1324,Omar Mahmoud,26,Alexandria,2023-02-20,12236.99
+1325,Mona Adel,64,6th october,2024-11-15,10591.08
+1326,Nour Ibrahim,23,Cairo,2024-12-17,12236.99
+1327,Nour Adel,45,Alexandria,2024-03-21,7406.74
+1328,Nour Youssef,53,Alexandria,2024-03-24,6979.3
+1329,Mona Ibrahim,55,Alexandria,2024-05-02,8161.01
+1330,Sara Mahmoud,35,Alexandria,2023-02-03,12236.99
+1331,Mohamed Adel,50,Cairo,2023-12-14,13171.07
+1332,Ahmed Adel,63,Cairo,2023-04-05,19752.5
+1333,Sara Adel,40,Giza,2023-03-13,7008.23
+1334,Ali Hassan,50,Alexandria,2024-07-04,12236.99
+1335,Ahmed Ibrahim,40,Giza,2023-06-03,10930.06
+1336,Ahmed Mahmoud,44,Nasr city,2023-09-07,11752.68
+1337,Omar Ibrahim,33,6th october,2024-11-04,15374.1
+1338,Omar Ibrahim,61,Cairo,2024-03-13,6386.39
+1339,Mohamed Mahmoud,33,Cairo,2023-04-28,13912.05
+1340,Mona Adel,17,Cairo,2023-11-02,12832.26
+1341,Ali Mahmoud,69,Cairo,2023-09-25,14462.26
+1342,Mona Hassan,50,Giza,2023-02-23,13445.84
+1343,Ahmed Mahmoud,31,6th october,2023-08-24,24276.5
+1344,Mona Youssef,56,Alexandria,2024-01-24,8811.3
+1345,Omar Hassan,51,Giza,2024-02-05,9345.02
+1346,Nour Youssef,48,Nasr city,2024-09-15,8884.3
+1347,Mona Mahmoud,45,Cairo,2023-10-30,9222.61
+1348,Mohamed Adel,48,Alexandria,2023-07-26,12236.99
+1349,Sara Mahmoud,29,Giza,2023-08-17,17945.08
+1350,Nour Mahmoud,36,Cairo,2024-07-31,19102.52
+1351,Ali Youssef,63,Cairo,2023-03-16,9146.27
+1352,Nour Youssef,35,Alexandria,2024-03-10,7838.22
+1353,Ahmed Mahmoud,23,Nasr city,2023-04-13,14357.08
+1354,Ahmed Adel,22,Alexandria,2024-02-26,9238.88
+1355,Mona Mahmoud,18,Alexandria,2024-12-04,15164.66
+1356,Mohamed Mahmoud,32,Alexandria,2023-11-02,12236.99
+1357,Sara Mahmoud,48,Nasr city,2023-04-08,4421.28
+1358,Omar Ibrahim,63,Cairo,2023-12-01,19737.53
+1359,Nour Mahmoud,27,6th october,2024-03-10,20979.39
+1360,Ahmed Youssef,66,Alexandria,2024-03-22,8936.06
+1361,Ali Hassan,45,Alexandria,2023-11-04,10061.49
+1362,Mona Youssef,37,Unknown,2023-09-06,13429.33
+1363,Ali Hassan,61,Giza,2023-06-15,13672.28
+1364,Mohamed Mahmoud,45,Cairo,2024-04-25,12236.99
+1365,Ahmed Mahmoud,53,Cairo,2023-12-01,22051.02
+1366,Ahmed Hassan,53,Alexandria,2024-06-25,11115.26
+1367,Sara Mahmoud,60,Alexandria,2023-04-16,8008.51
+1368,Sara Ibrahim,66,Giza,2024-07-16,5103.4
+1369,Mona Adel,69,Alexandria,2023-03-22,8345.35
+1370,Sara Mahmoud,23,Nasr city,2023-05-13,11834.37
+1371,Sara Mahmoud,42,Alexandria,2023-05-18,20972.79
+1372,Sara Hassan,42,Nasr city,2023-07-03,9411.94
+1373,Mona Hassan,49,Alexandria,2024-02-05,12236.99
+1374,Omar Youssef,36,Alexandria,2023-11-26,11917.89
+1375,Mohamed Adel,45,6th october,2024-05-22,12236.99
+1376,Ahmed Hassan,48,Alexandria,2023-03-10,12236.99
+1377,Nour Hassan,43,Cairo,2024-06-29,12236.99
+1378,Nour Hassan,62,Alexandria,2023-02-22,9552.8
+1379,Ahmed Ibrahim,48,6th october,2024-03-25,17220.8
+1380,Nour Hassan,20,Alexandria,2023-07-24,15409.46
+1381,Ali Ibrahim,63,Cairo,2023-05-06,21233.54
+1382,Ahmed Ibrahim,45,Cairo,2023-02-12,14919.64
+1383,Mona Hassan,19,Unknown,2023-04-21,10203.54
+1384,Ali Ibrahim,50,Giza,2024-10-24,14953.27
+1385,Mona Adel,64,Alexandria,2023-07-02,12236.99
+1386,Nour Adel,32,Giza,2023-04-05,16102.41
+1387,Ahmed Youssef,45,Alexandria,2024-01-09,14536.37
+1388,Ali Hassan,43,Nasr city,2024-06-03,17333.37
+1389,Nour Ibrahim,45,Alexandria,2023-12-26,17846.48
+1390,Sara Hassan,44,Cairo,2024-11-26,18910.79
+1391,Ali Hassan,61,6th october,2023-10-08,12236.99
+1392,Sara Youssef,68,Unknown,2023-07-14,11164.41
+1393,Omar Mahmoud,21,Alexandria,2023-07-14,12733.57
+1394,Mona Ibrahim,50,Alexandria,2024-10-28,12236.99
+1395,Mohamed Youssef,56,Cairo,2023-04-03,7915.32
+1396,Omar Ibrahim,52,Giza,2024-11-02,12236.99
+1397,Mohamed Adel,39,6th october,2023-03-02,10033.31
+1398,Nour Youssef,44,Nasr city,2024-09-25,12143.72
+1399,Nour Hassan,64,6th october,2023-02-20,18392.26
+1400,Nour Youssef,61,Nasr city,2024-02-07,12236.99
+1401,Nour Hassan,68,Cairo,2023-01-05,12236.99
+1402,Sara Youssef,46,Giza,2024-04-10,5200.72
+1403,Mona Adel,50,Nasr city,2024-08-26,12236.99
+1404,Mohamed Youssef,48,Unknown,2024-11-12,15227.42
+1405,Omar Adel,67,6th october,2024-06-17,12236.99
+1406,Mohamed Mahmoud,36,Alexandria,2024-02-09,10461.11
+1407,Nour Mahmoud,47,6th october,2024-05-27,13095.75
+1408,Mohamed Mahmoud,38,6th october,2024-10-06,13246.92
+1409,Sara Mahmoud,45,Cairo,2023-08-21,19887.27
+1410,Omar Ibrahim,18,Giza,2024-06-07,11523.52
+1411,Mona Ibrahim,33,Unknown,2023-12-12,13395.11
+1412,Omar Youssef,40,Alexandria,2023-02-15,15039.48
+1413,Omar Adel,57,Cairo,2024-06-29,12933.05
+1414,Ali Youssef,46,Nasr city,2023-03-19,12236.99
+1415,Nour Mahmoud,69,Cairo,2024-12-30,12970.45
+1416,Mona Mahmoud,18,Giza,2023-03-14,17368.16
+1417,Nour Youssef,55,Alexandria,2023-09-06,6867.42
+1418,Sara Adel,61,Nasr city,2023-02-16,12664.85
+1419,Nour Ibrahim,39,6th october,2023-05-01,8499.4
+1420,Nour Hassan,65,Nasr city,2023-08-02,17975.23
+1421,Sara Mahmoud,47,Unknown,2023-08-27,4384.07
+1422,Ahmed Mahmoud,62,Nasr city,2023-02-25,9205.39
+1423,Ali Youssef,37,Nasr city,2023-12-16,12236.99
+1424,Omar Mahmoud,38,6th october,2023-04-17,19827.62
+1425,Sara Hassan,17,Cairo,2023-02-17,11671.25
+1426,Mona Adel,42,Nasr city,2024-07-26,12236.99
+1427,Ahmed Mahmoud,57,Cairo,2023-12-03,21405.79
+1428,Ahmed Adel,17,Nasr city,2023-01-26,4759.93
+1429,Nour Adel,41,Nasr city,2023-09-14,12236.99
+1430,Sara Adel,32,Cairo,2023-01-08,14200.07
+1431,Ali Adel,55,Alexandria,2024-09-16,9489.73
+1432,Ali Hassan,48,6th october,2023-09-10,12236.99
+1433,Ali Ibrahim,24,Alexandria,2024-11-22,15541.78
+1434,Mohamed Ibrahim,58,Cairo,2024-12-19,13219.0
+1435,Omar Mahmoud,69,Giza,2023-10-30,9179.61
+1436,Mona Youssef,63,Alexandria,2024-09-30,5598.48
+1437,Nour Ibrahim,54,Nasr city,2023-02-25,16362.29
+1438,Omar Mahmoud,44,Cairo,2024-12-26,12236.99
+1439,Omar Mahmoud,57,Cairo,2024-06-09,11504.12
+1440,Mona Hassan,41,Alexandria,2024-04-18,21233.18
+1441,Mohamed Adel,50,Alexandria,2023-01-28,6649.58
+1442,Ahmed Mahmoud,65,Nasr city,2023-03-19,12236.99
+1443,Omar Ibrahim,40,Alexandria,2023-08-04,8540.46
+1444,Sara Youssef,39,Cairo,2024-01-21,11772.07
+1445,Sara Mahmoud,28,Cairo,2023-12-31,13216.7
+1446,Ali Youssef,22,Cairo,2024-10-27,10793.82
+1447,Sara Mahmoud,51,6th october,2024-06-09,13760.28
+1448,Omar Youssef,60,Giza,2024-11-29,5742.3
+1449,Sara Adel,35,Alexandria,2023-11-08,19218.82
+1450,Omar Mahmoud,16,Giza,2023-01-07,11589.24
+1451,Sara Adel,23,Giza,2023-01-03,17586.48
+1452,Sara Ibrahim,61,Alexandria,2024-09-14,13713.63
+1453,Mohamed Ibrahim,31,6th october,2023-12-29,14283.77
+1454,Sara Hassan,29,Cairo,2024-05-22,14848.84
+1455,Omar Youssef,27,Alexandria,2023-10-01,14238.54
+1456,Nour Ibrahim,66,6th october,2024-05-20,15213.61
+1457,Ahmed Ibrahim,38,Alexandria,2023-01-15,18645.76
+1458,Omar Mahmoud,45,6th october,2023-07-11,12982.61
+1459,Sara Youssef,43,Alexandria,2024-09-22,15545.02
+1460,Nour Youssef,49,Nasr city,2024-04-29,12236.99
+1461,Ali Adel,17,6th october,2023-01-28,19200.59
+1462,Mohamed Ibrahim,47,Alexandria,2024-12-14,8618.04
+1463,Sara Ibrahim,38,Unknown,2023-02-08,21004.7
+1464,Sara Ibrahim,37,Cairo,2023-09-30,11799.21
+1465,Sara Hassan,45,Alexandria,2023-08-19,4846.12
+1466,Omar Youssef,40,Cairo,2023-03-27,12640.52
+1467,Ahmed Adel,37,Cairo,2024-04-18,8594.74
+1468,Mohamed Hassan,37,6th october,2023-05-06,12236.99
+1469,Ali Adel,64,Cairo,2024-06-20,8736.88
+1470,Omar Ibrahim,67,6th october,2023-05-25,9769.08
+1471,Omar Mahmoud,57,Nasr city,2024-06-08,2552.3
+1472,Mohamed Hassan,21,Nasr city,2023-07-31,9738.47
+1473,Ali Adel,30,Nasr city,2023-01-25,12236.99
+1474,Mona Mahmoud,69,Unknown,2024-08-02,12236.99
+1475,Mona Adel,58,Unknown,2024-01-29,12236.99
+1476,Ahmed Hassan,52,6th october,2023-03-08,15929.0
+1477,Sara Mahmoud,48,Unknown,2023-08-21,12236.99
+1478,Mohamed Hassan,23,Alexandria,2023-04-19,12236.99
+1479,Mona Mahmoud,68,Cairo,2023-05-26,12236.99
+1480,Mohamed Youssef,59,6th october,2023-04-21,11981.99
+1481,Omar Hassan,59,Alexandria,2023-08-16,6208.18
+1482,Ahmed Ibrahim,20,Cairo,2023-04-21,19516.99
+1483,Nour Youssef,54,Alexandria,2024-04-14,16386.81
+1484,Sara Hassan,19,Giza,2023-02-03,10895.18
+1485,Ahmed Hassan,21,Cairo,2024-09-14,12134.43
+1486,Ali Mahmoud,60,Alexandria,2024-01-04,13041.91
+1487,Ali Youssef,47,Alexandria,2024-08-17,1791.33
+1488,Nour Youssef,67,Nasr city,2024-07-07,10764.11
+1489,Ahmed Youssef,45,Nasr city,2024-02-29,12236.99
+1490,Mona Mahmoud,62,Nasr city,2024-09-04,6991.9
+1491,Mona Adel,50,Alexandria,2024-06-01,10594.5
+1492,Nour Youssef,55,Giza,2024-11-22,20988.43
+1493,Mona Adel,67,Alexandria,2023-10-09,12236.99
+1494,Ali Youssef,31,6th october,2023-11-16,12236.99
+1495,Mohamed Youssef,28,Nasr city,2024-03-18,14862.91
+1496,Omar Hassan,65,Alexandria,2023-11-11,18996.78
+1497,Nour Ibrahim,57,Cairo,2024-01-12,16623.17
+1498,Omar Ibrahim,45,Nasr city,2023-10-16,12298.15
+1499,Sara Hassan,34,Cairo,2024-03-12,8765.32

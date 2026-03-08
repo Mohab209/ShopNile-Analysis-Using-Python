@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 # Set page config
 st.set_page_config(page_title="ShopNile Dashboard", layout="wide")
 # Title
@@ -8,12 +9,12 @@ st.title("🛍️ ShopNile Dashboard")
 # Load Data
 @st.cache_data
 def load_data():
-    customers_df = pd.read_csv("clean_data/Customers_Clean.csv")
-    products_df = pd.read_csv("clean_data/Products_Clean.csv")
-    orders_df = pd.read_csv("clean_data/Orders_Clean.csv")
-    payments_df = pd.read_csv("clean_data/Payments_Clean.csv")
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    customers_df = pd.read_csv(os.path.join(base_path, "clean_data", "Customers_Clean.csv"))
+    products_df = pd.read_csv(os.path.join(base_path, "clean_data", "Products_Clean.csv"))
+    orders_df = pd.read_csv(os.path.join(base_path, "clean_data", "Orders_Clean.csv"))
+    payments_df = pd.read_csv(os.path.join(base_path, "clean_data", "Payments_Clean.csv"))
     return customers_df, products_df, orders_df, payments_df
-Dim_Customers_DF, Dim_Products_DF, Fact_Orders_DF, Fact_Payments_DF = load_data()
 # Merge DataFrames
 Orders_Payments_DF = pd.merge(Fact_Orders_DF, Fact_Payments_DF, on="order_id", how="inner")
 Orders_Customers_DF = pd.merge(Orders_Payments_DF, Dim_Customers_DF, on="customer_id", how="inner")
@@ -58,3 +59,4 @@ top_products = filtered_df.groupby("product_name")["amount_paid"].sum().reset_in
 fig_top_products = px.bar(top_products, x="product_name", y="amount_paid", title="Top 10 Products by Sales", labels={"amount_paid": "Total Sales"})
 
 st.plotly_chart(fig_top_products, use_container_width=True)
+

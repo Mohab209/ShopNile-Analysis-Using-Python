@@ -138,5 +138,7 @@ streamlit run ShopNile_Analysis.py
 | `amount_paid`, `payment_status` | Payments | Payment details |
 
 ---
+## Dashboard URL
+**Open your browser and go to** → `https://shopnile-analysis-using-python-h9bbtrwmjconbq49mfkc8f.streamlit.app`
 
 *ShopNile — Data Analysis Portfolio Project*

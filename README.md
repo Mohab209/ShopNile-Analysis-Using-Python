@@ -139,7 +139,6 @@ streamlit run ShopNile_Analysis.py
 
 ---
 ## Dashboard URL
-**Open your browser and go to** → 
 ```
 https://shopnile-analysis-using-python-h9bbtrwmjconbq49mfkc8f.streamlit.app
 ```

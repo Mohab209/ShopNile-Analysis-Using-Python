@@ -61,3 +61,4 @@ fig_top_products = px.bar(top_products, x="product_name", y="amount_paid", title
 st.plotly_chart(fig_top_products, use_container_width=True)
 
 
+

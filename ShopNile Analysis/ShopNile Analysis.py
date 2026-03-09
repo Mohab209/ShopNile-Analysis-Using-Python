@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import os
+# Define base path
+base_path = os.path.dirname(os.path.abspath(__file__))
 # Set page config
 st.set_page_config(page_title="ShopNile Dashboard", layout="wide")
 # Title
@@ -61,6 +63,7 @@ top_products = filtered_df.groupby("product_name")["amount_paid"].sum().reset_in
 fig_top_products = px.bar(top_products, x="product_name", y="amount_paid", title="Top 10 Products by Sales", labels={"amount_paid": "Total Sales"})
 
 st.plotly_chart(fig_top_products, use_container_width=True)
+
 
 
 

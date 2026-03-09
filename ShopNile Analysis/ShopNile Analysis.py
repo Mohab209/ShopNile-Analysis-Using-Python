@@ -33,7 +33,7 @@ total_orders = filtered_df["order_id"].nunique()
 total_customers = filtered_df["customer_id"].nunique()
 col1, col2, col3, col4, col5 = st.columns([0.6,0.3,1,1,1])
 with col1:
-    st.image("ShopNile Logo.png")
+    st.image(os.path.join(base_path, "ShopNile Logo.png"))
 col2.metric("","")
 col3.metric("Total Revenue", f"${total_revenue:,.0f}")
 col4.metric("Total Orders", f"{total_orders:,}")
@@ -61,6 +61,7 @@ top_products = filtered_df.groupby("product_name")["amount_paid"].sum().reset_in
 fig_top_products = px.bar(top_products, x="product_name", y="amount_paid", title="Top 10 Products by Sales", labels={"amount_paid": "Total Sales"})
 
 st.plotly_chart(fig_top_products, use_container_width=True)
+
 
 
 
